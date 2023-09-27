@@ -1,6 +1,6 @@
 **DevOps Capstone Project**
 
-**Part 2: : Creating VMs, Infra as a Code (IaC)**
+**Part 2: : Creating server VM, Infra as a Code (IaC)**
 
 **Terraform**
 
